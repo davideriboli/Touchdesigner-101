@@ -1,3 +1,12 @@
 [submodule "99 More Repos/Touchdesigner-Multi-Layer-Timeline"]
 	path = 99 More Repos/Touchdesigner-Multi-Layer-Timeline
 	url = https://github.com/franklin113/Touchdesigner-Multi-Layer-Timeline
+[submodule "98 Students/Erminia Riccio/TouchDesigner-projects-erminia"]
+	path = 98 Students/Erminia Riccio/TouchDesigner-projects-erminia
+	url = https://github.com/erminiariccio/TouchDesigner-projects-erminia
+[submodule "99 More Repos/TouchDesignerGrimoire"]
+	path = 99 More Repos/TouchDesignerGrimoire
+	url = https://github.com/superColson/TouchDesignerGrimoire.git
+[submodule "98 Students/Michelangelo Alesi/TD-Experiments"]
+	path = 98 Students/Michelangelo Alesi/TD-Experiments
+	url = https://github.com/michintosh/TD-Experiments.git
