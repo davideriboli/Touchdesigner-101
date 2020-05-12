@@ -10,3 +10,9 @@
 [submodule "98 Students/Michelangelo Alesi/TD-Experiments"]
 	path = 98 Students/Michelangelo Alesi/TD-Experiments
 	url = https://github.com/michintosh/TD-Experiments.git
+[submodule "99 More Repos/TouchDesigner_Shared"]
+	path = 99 More Repos/TouchDesigner_Shared
+	url = https://github.com/DBraun/TouchDesigner_Shared.git
+[submodule "99 More Repos/touchdesigner-playground"]
+	path = 99 More Repos/touchdesigner-playground
+	url = https://github.com/riebschlager/touchdesigner-playground.git
