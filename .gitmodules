@@ -16,3 +16,6 @@
 [submodule "Other-Github-Repos/touchdesigner-playground"]
 	path = Other-Github-Repos/touchdesigner-playground
 	url = https://github.com/riebschlager/touchdesigner-playground.git
+[submodule "Students/2020/ABA-Erminia-Riccio/TouchDesigner-projects-erminia"]
+	path = Students/2020/ABA-Erminia-Riccio/TouchDesigner-projects-erminia
+	url = https://github.com/erminiariccio/TouchDesigner-projects-erminia.git
