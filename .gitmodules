@@ -22,3 +22,12 @@
 [submodule "Students/2020/ABA-Michelangelo-Alesi/TD-Experiments"]
 	path = Students/2020/ABA-Michelangelo-Alesi/TD-Experiments
 	url = https://github.com/michintosh/TD-Experiments.git
+[submodule "Other-Github-Repos/TD-GLSL-Playground"]
+	path = Other-Github-Repos/TD-GLSL-Playground
+	url = https://github.com/TsaiChengHung/TD-GLSL-Playground.git
+[submodule "Other-Github-Repos/-force"]
+	path = Other-Github-Repos/-force
+	url = https://github.com/erminiariccio/TouchDesigner-projects-erminia.git
+[submodule "Other-Github-Repos/PekoPoko"]
+	path = Other-Github-Repos/PekoPoko
+	url = https://github.com/chimanaco/PekoPoko.git
