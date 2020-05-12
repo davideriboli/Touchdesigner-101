@@ -1,0 +1,44 @@
+ORIGINAL TUT
+Creating Interactive Video
+with TouchDesigner TOPs (Texture Operators)
+
+BY
+Owen Lowery
+
+URL
+https://t1p.de/9jlsgi
+
+RECODED BY
+Davide Riboli
+
+DATE
+May 12 2020
+
+INGREDIENTS
+
+01_VideoIN
+Video device in (enough said...).
+
+02_Cache
+Used to generate a retard in the video signal.
+Check the negative "Output Index" parameter.
+
+03_Difference
+Used to have a difference composite tween video-in and its cache.
+
+04_Chromakey
+We use Chromakey to separate the subject from the background.
+In parameters tab "Val", play with vals to adjust chromakey to your signal. 
+
+05_Feedback
+Used to dramatize the trails effect in loop with the next ingredient.
+
+06_Composite
+Used to dramatize the trails effect in loop with the prev ingredient.
+Play with the "Operation" options menu in the first parameters tab to have a lot of different real time effects.
+
+07_Level
+Connect it tween 05 and 06 if you need more control on your final output.
+With "Level" you can correct brightness, gamma and so on.
+
+08) Out (enough said...). Add a "Syphon Spout OUT" to transmit to Madmapper, Resolume or similars.
