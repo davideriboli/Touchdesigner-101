@@ -1,18 +1,18 @@
-[submodule "99 More Repos/Touchdesigner-Multi-Layer-Timeline"]
-	path = 99 More Repos/Touchdesigner-Multi-Layer-Timeline
+[submodule "Other-Github-Repos/Touchdesigner-Multi-Layer-Timeline"]
+	path = Other-Github-Repos/Touchdesigner-Multi-Layer-Timeline
 	url = https://github.com/franklin113/Touchdesigner-Multi-Layer-Timeline
 [submodule "98 Students/Erminia Riccio/TouchDesigner-projects-erminia"]
 	path = 98 Students/Erminia Riccio/TouchDesigner-projects-erminia
 	url = https://github.com/erminiariccio/TouchDesigner-projects-erminia
-[submodule "99 More Repos/TouchDesignerGrimoire"]
-	path = 99 More Repos/TouchDesignerGrimoire
+[submodule "Other-Github-Repos/TouchDesignerGrimoire"]
+	path = Other-Github-Repos/TouchDesignerGrimoire
 	url = https://github.com/superColson/TouchDesignerGrimoire.git
 [submodule "98 Students/Michelangelo Alesi/TD-Experiments"]
 	path = 98 Students/Michelangelo Alesi/TD-Experiments
 	url = https://github.com/michintosh/TD-Experiments.git
-[submodule "99 More Repos/TouchDesigner_Shared"]
-	path = 99 More Repos/TouchDesigner_Shared
+[submodule "Other-Github-Repos/TouchDesigner_Shared"]
+	path = Other-Github-Repos/TouchDesigner_Shared
 	url = https://github.com/DBraun/TouchDesigner_Shared.git
-[submodule "99 More Repos/touchdesigner-playground"]
-	path = 99 More Repos/touchdesigner-playground
+[submodule "Other-Github-Repos/touchdesigner-playground"]
+	path = Other-Github-Repos/touchdesigner-playground
 	url = https://github.com/riebschlager/touchdesigner-playground.git
