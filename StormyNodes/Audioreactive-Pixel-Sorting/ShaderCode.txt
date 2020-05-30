@@ -1,0 +1,60 @@
+//Shader code by Techmotif
+//URL: https://pastebin.com/25VEjrMU
+
+uniform float iFrame;
+
+float luminance(vec3 rgb) {
+    // Algorithm from Chapter 10 of Graphics Shaders.
+    const vec3 W = vec3(0.2125, 0.7154, 0.0721);
+    return dot(rgb, W);
+}
+
+float hue(vec4 rgba) {
+    return TDRGBToHSV(rgba.rgb).x;
+}
+
+float evaluate(vec4 rgba) {
+    return hue(rgba);
+    // return length(rgba);
+    // return luminance(rgba.rgb);
+    // return rgba.r;
+}
+
+out vec4 fragColor;
+void main()
+{
+	vec2 uv = vUV.st;
+    vec2 texel = uTD2DInfos[0].res.xy;
+    
+    float step_y = texel.y;
+    vec2 s  = vec2(0.0, -step_y);
+    vec2 n  = vec2(0.0, step_y);
+
+    vec4 im_n =  texture(sTD2DInputs[0], uv+n);
+    vec4 im =    texture(sTD2DInputs[0], uv);
+    vec4 im_s =  texture(sTD2DInputs[0], uv+s);
+    
+    float len_n = evaluate(im_n);
+    float len =   evaluate(im);
+    float len_s = evaluate(im_s);
+    
+    if(int(mod(float(iFrame) + gl_FragCoord.y+uTDPass, 2.0)) == 0) {
+        if ((len_s > len)) { 
+            im = im_s;    
+        }
+    } else {
+        if ((len_n < len)) { 
+            im = im_n;    
+        }   
+    }
+    
+    // initialize with image
+    //if(iFrame<10) {
+    //    fragColor = texture2D(sTD2DInputs[1], uv);
+    //} else {
+    //    fragColor = im;
+    //}
+    
+    fragColor = im;
+
+}

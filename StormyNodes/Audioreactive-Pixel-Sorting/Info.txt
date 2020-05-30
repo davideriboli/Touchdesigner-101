@@ -1,0 +1,20 @@
+NETWORK BY
+Davide Riboli
+
+BASED ON
+TouchDesigner Pixel Sorting Video Effect
+
+BY
+Techmotif
+
+TECHMOTIF URL
+https://youtu.be/QmQaZpkS9TY
+
+GLSL CODE URL
+https://pastebin.com/25VEjrMU	
+
+DATE
+May 30 2020
+
+NOTES
+Check nodes notes for more infos.
