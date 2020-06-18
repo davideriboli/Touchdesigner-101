@@ -1,0 +1,5 @@
+
+2Dimages-cache
+
+
+Simple animation, with textures and generative shapes. I associated the 'wave' chop with some parameters of the shapes and the texture, to obtain the desired movement. Then I used the Top 'feedback' and the Top 'cache' to act again on the form.

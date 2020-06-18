@@ -1,0 +1,8 @@
+
+Glitch-button
+
+I have associated some video or image files in a chop 'switch', managed by the chop 'button'. I used a 'noise' chop in the 'transform' of the image. Chops 'noise' and 'lfo' influence the image in the top 'displaice', generating glich effects that add to those caused by feedback and swich between the images.
+
+
+reference video tutorial:
+https://youtu.be/DTjCDHmpliU

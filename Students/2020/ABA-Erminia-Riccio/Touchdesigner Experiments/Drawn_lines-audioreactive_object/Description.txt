@@ -1,0 +1,12 @@
+
+Drawn lines-audioreactive-fish
+
+I used the sop 'line' and 'rectangle'. The 'line' is combined with a sop 'copy' to multiply the line. I have given geometry a material and I have connected everything to a render. The sop takes movement from the 'wave' chop. This structure is repeated three times with different parameters, to obtain three different waves.
+I made a fish that swims in 2D waves. A 'swich' connected to an audio-reactive structure that allows the fish to switch from 2D to 3D. A chop 'noise' also acts on the fish's shape. I used four top 'composite' for the spatial depth in which the fish moves. The 'timer' acts on the top 'switch' connected to four 'composite'.
+
+
+
+Reference video tutorial:
+https://www.youtube.com/watch?v=tQwH5-iWq5o
+
+https://www.youtube.com/watch?v=WpkOVI3f6Yk

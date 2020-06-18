@@ -1,0 +1,5 @@
+
+'Lovehate'-keybord
+
+
+I created seven scenes each in a 'composite'. A chop 'switch' connected to a 'keybord' allows you to switch from one scene to another in real time. This allows you to manage the animation. The title 'love-hate' refers to the possible human choices of love or hate that each journalist encounter entails.
