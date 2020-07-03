@@ -1,9 +1,6 @@
 [submodule "Other-Github-Repos/Touchdesigner-Multi-Layer-Timeline"]
 	path = Other-Github-Repos/Touchdesigner-Multi-Layer-Timeline
 	url = https://github.com/franklin113/Touchdesigner-Multi-Layer-Timeline
-[submodule "98 Students/Erminia Riccio/TouchDesigner-projects-erminia"]
-	path = 98 Students/Erminia Riccio/TouchDesigner-projects-erminia
-	url = https://github.com/erminiariccio/TouchDesigner-projects-erminia
 [submodule "Other-Github-Repos/TouchDesignerGrimoire"]
 	path = Other-Github-Repos/TouchDesignerGrimoire
 	url = https://github.com/superColson/TouchDesignerGrimoire.git
