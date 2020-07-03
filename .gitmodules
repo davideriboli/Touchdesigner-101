@@ -4,9 +4,6 @@
 [submodule "Other-Github-Repos/TouchDesignerGrimoire"]
 	path = Other-Github-Repos/TouchDesignerGrimoire
 	url = https://github.com/superColson/TouchDesignerGrimoire.git
-[submodule "98 Students/Michelangelo Alesi/TD-Experiments"]
-	path = 98 Students/Michelangelo Alesi/TD-Experiments
-	url = https://github.com/michintosh/TD-Experiments.git
 [submodule "Other-Github-Repos/TouchDesigner_Shared"]
 	path = Other-Github-Repos/TouchDesigner_Shared
 	url = https://github.com/DBraun/TouchDesigner_Shared.git
