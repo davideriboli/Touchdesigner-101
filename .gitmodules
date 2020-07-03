@@ -1,6 +1,3 @@
-[submodule "Other-Github-Repos/Touchdesigner-Multi-Layer-Timeline"]
-	path = Other-Github-Repos/Touchdesigner-Multi-Layer-Timeline
-	url = https://github.com/franklin113/Touchdesigner-Multi-Layer-Timeline
 [submodule "Other-Github-Repos/TouchDesignerGrimoire"]
 	path = Other-Github-Repos/TouchDesignerGrimoire
 	url = https://github.com/superColson/TouchDesignerGrimoire.git
