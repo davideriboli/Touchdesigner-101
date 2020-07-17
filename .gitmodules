@@ -1,6 +1,3 @@
-[submodule "PekoPoko"]
-	path = Subs/PekoPoko
-	url = https://github.com/chimanaco/PekoPoko.git
 [submodule "StyleTransfer-in-TD"]
 	path = Subs/StyleTransfer-in-TD
 	url = https://github.com/exsstas/StyleTransfer-in-TD.git
