@@ -1,6 +1,3 @@
-[submodule "StyleTransfer-in-TD"]
-	path = Subs/StyleTransfer-in-TD
-	url = https://github.com/exsstas/StyleTransfer-in-TD.git
 [submodule "deepdreamer-touchdesigner"]
 	path = Subs/deepdreamer-touchdesigner
 	url = https://github.com/AleDel/deepdreamer-touchdesigner.git
@@ -16,3 +13,6 @@
 [submodule "Subs/Introduction-to-Touchdesigner"]
 	path = Subs/Introduction-to-Touchdesigner
 	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
+[submodule "Subs/Touchdesigner-Playground"]
+	path = Subs/Touchdesigner-Playground
+	url = https://github.com/chimanaco/PekoPoko.git
