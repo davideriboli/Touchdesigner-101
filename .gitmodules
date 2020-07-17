@@ -1,6 +1,3 @@
-[submodule "touchdesigner-sop-to-svg"]
-	path = Subs/touchdesigner-sop-to-svg
-	url = https://github.com/raganmd/touchdesigner-sop-to-svg.git
 [submodule "Subs/Introduction-to-Touchdesigner"]
 	path = Subs/Introduction-to-Touchdesigner
 	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
