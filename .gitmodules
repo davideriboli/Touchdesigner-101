@@ -13,9 +13,6 @@
 [submodule "TouchDesigner_Shared"]
 	path = TouchDesigner_Shared
 	url = https://github.com/DBraun/TouchDesigner_Shared.git
-[submodule "Introduction-to-touchdesigner"]
-	path = Introduction-to-touchdesigner
-	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
 [submodule "TD-Examples"]
 	path = TD-Examples
 	url = https://github.com/raganmd/TD-Examples.git
