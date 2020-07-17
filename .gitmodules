@@ -1,6 +1,3 @@
-[submodule "Other-Github-Repos/TouchDesignerGrimoire"]
-	path = Other-Github-Repos/TouchDesignerGrimoire
-	url = https://github.com/superColson/TouchDesignerGrimoire.git
 [submodule "Other-Github-Repos/TD-GLSL-Playground"]
 	path = Other-Github-Repos/TD-GLSL-Playground
 	url = https://github.com/TsaiChengHung/TD-GLSL-Playground.git
