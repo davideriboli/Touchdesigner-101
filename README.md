@@ -3,7 +3,7 @@
 # Generative Art with Touchdesigner
 *Touchdesigner resources*
 
-Ever since I discovered and started using Touchdesigner, I have lost interest in any other creative coding framework.
+Ever since I discovered and started using [Touchdesigner](https://derivative.ca/), I have lost interest in any other creative coding framework.
 
 TD is very complex, but luckily there are a lot of great tutorials out there, made by great coders. The main collection is provided by the [AllTouchdesigner site](http://alltd.org/).
 
