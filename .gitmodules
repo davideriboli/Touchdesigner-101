@@ -7,12 +7,12 @@
 [submodule "TouchDesigner_Shared"]
 	path = Subs/TouchDesigner_Shared
 	url = https://github.com/DBraun/TouchDesigner_Shared.git
-[submodule "TD-Examples"]
-	path = Subs/TD-Examples
-	url = https://github.com/raganmd/TD-Examples.git
 [submodule "Subs/Introduction-to-Touchdesigner"]
 	path = Subs/Introduction-to-Touchdesigner
 	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
 [submodule "Subs/Touchdesigner-Playground"]
 	path = Subs/Touchdesigner-Playground
 	url = https://github.com/chimanaco/PekoPoko.git
+[submodule "Subs/Style-Transfer-in-Touchdesigner"]
+	path = Subs/Style-Transfer-in-Touchdesigner
+	url = https://github.com/exsstas/StyleTransfer-in-TD.git
