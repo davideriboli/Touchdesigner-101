@@ -10,9 +10,6 @@
 [submodule "Other-Github-Repos/TD-GLSL-Playground"]
 	path = Other-Github-Repos/TD-GLSL-Playground
 	url = https://github.com/TsaiChengHung/TD-GLSL-Playground.git
-[submodule "Other-Github-Repos/PekoPoko"]
-	path = Other-Github-Repos/PekoPoko
-	url = https://github.com/chimanaco/PekoPoko.git
 [submodule "Other-Github-Repos/GenerativeDesign"]
 	path = Other-Github-Repos/GenerativeDesign
 	url = https://github.com/TouchDesigner/GenerativeDesign.git
