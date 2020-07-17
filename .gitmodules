@@ -1,0 +1,21 @@
+[submodule "PekoPoko"]
+	path = PekoPoko
+	url = https://github.com/chimanaco/PekoPoko.git
+[submodule "StyleTransfer-in-TD"]
+	path = StyleTransfer-in-TD
+	url = https://github.com/exsstas/StyleTransfer-in-TD.git
+[submodule "deepdreamer-touchdesigner"]
+	path = deepdreamer-touchdesigner
+	url = https://github.com/AleDel/deepdreamer-touchdesigner.git
+[submodule "touchdesigner-sop-to-svg"]
+	path = touchdesigner-sop-to-svg
+	url = https://github.com/raganmd/touchdesigner-sop-to-svg.git
+[submodule "TouchDesigner_Shared"]
+	path = TouchDesigner_Shared
+	url = https://github.com/DBraun/TouchDesigner_Shared.git
+[submodule "Introduction-to-touchdesigner"]
+	path = Introduction-to-touchdesigner
+	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
+[submodule "TD-Examples"]
+	path = TD-Examples
+	url = https://github.com/raganmd/TD-Examples.git

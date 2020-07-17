@@ -1,1 +1,0 @@
-Everything here was added as submodules, so every repo has its own license.
