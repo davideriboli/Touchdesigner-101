@@ -4,9 +4,6 @@
 [submodule "touchdesigner-sop-to-svg"]
 	path = Subs/touchdesigner-sop-to-svg
 	url = https://github.com/raganmd/touchdesigner-sop-to-svg.git
-[submodule "TouchDesigner_Shared"]
-	path = Subs/TouchDesigner_Shared
-	url = https://github.com/DBraun/TouchDesigner_Shared.git
 [submodule "Subs/Introduction-to-Touchdesigner"]
 	path = Subs/Introduction-to-Touchdesigner
 	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
@@ -16,3 +13,6 @@
 [submodule "Subs/Style-Transfer-in-Touchdesigner"]
 	path = Subs/Style-Transfer-in-Touchdesigner
 	url = https://github.com/exsstas/StyleTransfer-in-TD.git
+[submodule "Subs/Mattew-Ragan-Touchdesigner-Examples"]
+	path = Subs/Mattew-Ragan-Touchdesigner-Examples
+	url = https://github.com/raganmd/TD-Examples.git
