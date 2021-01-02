@@ -13,4 +13,4 @@ https://youtu.be/Ubi_v7-zm20
 Recoded on
 *May 6 2020*
 
-![Network preview](NetworkPreview.png)
+![Network preview](NetworkPreview.PNG)
