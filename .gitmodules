@@ -10,9 +10,6 @@
 [submodule "Subs/Mattew-Ragan-Touchdesigner-Examples"]
 	path = Subs/Mattew-Ragan-Touchdesigner-Examples
 	url = https://github.com/raganmd/TD-Examples.git
-[submodule "Subs/Deep-Dreamer-in-Touchdesigner"]
-	path = Subs/Deep-Dreamer-in-Touchdesigner
-	url = https://github.com/AleDel/deepdreamer-touchdesigner.git
 [submodule "Subs/Mattew-Ragan-Touchdesigner-SOP-to-SVG"]
 	path = Subs/Mattew-Ragan-Touchdesigner-SOP-to-SVG
 	url = https://github.com/raganmd/touchdesigner-sop-to-svg.git
