@@ -12,3 +12,5 @@ This repository collects the toes and toxs files that I generate by following th
 All materials are published under their own release license and each file contains comments indicating their origin and any author. If any of them disagree with this publication system, can easily contact me to request the removal of their contributions or a change of license.
 
 Works from other Github repos are added as submodules.
+
+Discussions and wiki are mainly dedicated to my students, so they are in italian.
