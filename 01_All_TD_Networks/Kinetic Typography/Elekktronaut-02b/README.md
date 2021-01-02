@@ -1,22 +1,12 @@
-Original tut
+Original tut: **Text Textures – TouchDesigner Tutorial 9**
 
-**Text Textures – TouchDesigner Tutorial 9**
+by: **Bileam Tschepe (AKA Elekktronaut)**
 
-by
+ALLTd: https://t1p.de/uqywzh
 
-**Bileam Tschepe (AKA Elekktronaut)**
+YouTube: https://youtu.be/kosFgK7DdCo
 
-ALLTd
-
-https://t1p.de/uqywzh
-
-URL YouTube
-
-https://youtu.be/kosFgK7DdCo
-
-Recoded on
-
-*June 12 2020*
+Recoded on: *June 12 2020*
 
 Note
 
