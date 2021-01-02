@@ -4,9 +4,6 @@
 [submodule "Subs/Style-Transfer-in-Touchdesigner"]
 	path = Subs/Style-Transfer-in-Touchdesigner
 	url = https://github.com/exsstas/StyleTransfer-in-TD.git
-[submodule "Subs/Mattew-Ragan-Touchdesigner-Examples"]
-	path = Subs/Mattew-Ragan-Touchdesigner-Examples
-	url = https://github.com/raganmd/TD-Examples.git
 [submodule "Subs/Mattew-Ragan-Touchdesigner-SOP-to-SVG"]
 	path = Subs/Mattew-Ragan-Touchdesigner-SOP-to-SVG
 	url = https://github.com/raganmd/touchdesigner-sop-to-svg.git
