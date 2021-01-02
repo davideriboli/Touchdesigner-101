@@ -1,6 +1,0 @@
-[submodule "Subs/Introduction-to-Touchdesigner"]
-	path = Subs/Introduction-to-Touchdesigner
-	url = https://github.com/nVoid/Introduction-to-touchdesigner.git
-[submodule "Subs/Style-Transfer-in-Touchdesigner"]
-	path = Subs/Style-Transfer-in-Touchdesigner
-	url = https://github.com/exsstas/StyleTransfer-in-TD.git
