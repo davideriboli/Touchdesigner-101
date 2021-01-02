@@ -13,4 +13,4 @@ https://youtu.be/ayfnhRyv34Y
 Recoding date
 _May 20 2020_
 
-![Network preview](NetworkPreview.png)
+![Network preview](NetworkPreview.PNG)
