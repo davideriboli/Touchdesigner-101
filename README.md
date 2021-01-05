@@ -1,4 +1,4 @@
-![cover](Cover.jpg)
+![cover](Cover.png)
 
 # Learning Touchdesigner
 *Touchdesigner resources*
