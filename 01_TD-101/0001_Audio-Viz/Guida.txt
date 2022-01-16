@@ -1,0 +1,62 @@
+001_AUDIOFILEIN
+Carica il file audio e controlla la riproduzione.
+
+002_AUDIODEVOUT
+Da collegare a 001_AUDIOFILEIN per ascoltare il suono in riproduzione.
+
+003_AUDIOSPECT
+Crea la FFT | FFT Size 4096, High Frequency Boost 0.736.
+
+004_TRIM
+Scarta i valori eccessivi.
+
+005_ANALYZE
+Analizza il suono in entrata.
+
+006_FILTER
+Filtro smussa picchi. Ampiezza 0.1 (secondi).
+
+007_MATH
+Trasforma il flusso audio in entrata in valori matematici e applica ulteriori operazioni (Multiply 7.52. Esporta i valori di chan 1 verso 008_NOISE.
+
+008_NOISE
+Crea un noise sui valori forniti da 007_MATH:chan1. Testare bene il metodo di esportazione.
+
+009_SPHERE
+Crea una sfera per definire lo spazio del particellare 011_PARTICLES.
+
+010_SORT
+Definisce lo spazio del particellare come randomico (Point sort random).
+
+011_PARTICLE
+Il generatore particellare. Time inc 0.0166 | Turbulence 3,3,3 | Birth 200.
+
+012_SOPTOCHOP
+Trasforma la "vita" del particellare in un flusso dati. Sample Rate 60 | Export Method Dat Table by Name.
+
+013_MERGE
+Riunisce il noise particellare con l'FFT del brano musicale. Testare up&down.
+
+014_GEO
+Crea una scena pronta da renderizzare. Controllare bene tutti i parametri cambiati rispetto al default e, in particolare, instancing ON. Poi controllare all'interno.
+
+015_CIRCLE
+L'unità da renderizzare attraverso il meccanismo di instancing.
+
+016_RENDER
+Insieme a camera e luci, renderizza la scena.
+
+016_CAM
+Insieme a render e luci, renderizza la scena.
+
+016_LIGHT
+Insieme a render e camera, renderizza la scena.
+
+017_LOOKUP
+Colora la scena coi colori decisi da un determinato input.
+
+017_RAMP
+Determina i colori da imporre a 017_LOOKUP.
+
+018_OUT
+Output.
