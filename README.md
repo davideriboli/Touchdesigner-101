@@ -1,4 +1,4 @@
-![Touchdesigner](https://user-images.githubusercontent.com/623043/152826522-99cb9967-b333-4944-b5cd-ecfb1a2c3c56.jpg)
+![Cover](cover.jpg)
 
 This repository collects:
 
