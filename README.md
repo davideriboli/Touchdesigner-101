@@ -1,15 +1,8 @@
-![cover](Cover.png)
-
-# Learning Touchdesigner
-*Touchdesigner resources*
-
-Ever since I discovered and started using [Touchdesigner](https://derivative.ca/), I have lost interest in any other creative coding framework or language.
-
-TD is very complex, but luckily there are a lot of great tutorials out there, made by great coders. The main collection is provided by the [AllTouchdesigner site](http://alltd.org/).
+![Touchdesigner](https://user-images.githubusercontent.com/623043/152826522-99cb9967-b333-4944-b5cd-ecfb1a2c3c56.jpg)
 
 This repository collects:
 
-- the toes and toxs files that I generate by following the tutorials that interest me most;
+- the toes and toxs files that I generate by experimenting with TD;
 - my creations and other resources publicly distributed via the web;
 - networks created by the students of my multimedia composition courses.
 
