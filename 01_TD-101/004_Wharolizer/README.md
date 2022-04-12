@@ -5,3 +5,5 @@ L'ho ricavata modificando un po' l'originale di [Crystal Jow](https://www.crysta
 Con pochi cambiamenti può generare infinite variazioni di colore e lavorare anche come effetto _real time_.
 
 Ideale per approfondire cosa si può fare in TD con pochi nodi e un segnale video live e anche per comprendere il funzionamento di pulsanti complessi.
+
+![output](output.png)
