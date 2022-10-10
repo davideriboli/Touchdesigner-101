@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "spellcheckLanguages": [
+    "it",
+    "it-IT"
+  ],
+  "attachmentFolderPath": "99_Media",
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}

@@ -1,11 +1,9 @@
-![Cover](cover.jpg)
+# Touchdesigner 101
 
-This repository collects:
+This repository contains all the materials from my courses on Generative Art with [Touchdesigner](https://derivative.ca/). The repository is organized in the form of an Obsidian Vault, so you should get [Obsidian](https://obsidian.md/) first and then open the main directory as a *vault*.
 
-- the toes and toxs files that I generate by experimenting with TD;
-- my creations and other resources publicly distributed via the web;
-- networks created by the students of my multimedia composition courses.
+The repository contains files coded by me, other authors and my students. Credits are always given in the accompanying notes.
 
-All materials are published under their own release license and each file contains comments indicating their origin and any author. If any of them disagree with this publication system, can easily contact me to request the removal of their contributions or a change of license.
+![[cover.jpg]]
 
-Discussions and wiki are mainly dedicated to my students, so they are in italian.
+---
