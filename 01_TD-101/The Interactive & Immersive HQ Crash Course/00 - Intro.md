@@ -44,6 +44,7 @@ The Interactive & Immersive HQ are one of the best creative teams specialized in
 #### Useful Links & Tools
 
 - [Touchdesigner Download Page](https://derivative.ca/download)
+- [Derivative : A 20 Year Retrospective](https://derivative.ca/community-post/derivative-20-year-retrospective-part-1/62571)
 
 
 > [!warning]
