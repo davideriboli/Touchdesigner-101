@@ -8,18 +8,18 @@
 -   [Node Institute free TD intro course](https://thenodeinstitute.org/courses/introduction-to-visual-programming-with-touchdesigner/)
 -   [Touchdesigner for Absolute Beginners — A simple primer project](https://medium.com/@joshbaptista/touchdesigner-for-absolute-beginners-a-simple-primer-project-151acd9754ed)
 -   [Touchdesigner on Instagram](https://www.instagram.com/touchdesigner/)
--   [Touchdesigner SubReddit](https://www.reddit.com/r/TouchDesigner/)
+-   [Touchdesigner SubReddit|noembed](https://www.reddit.com/r/TouchDesigner/)
 
 ---
 
 ##### Video Tutorials
 
--   [All TD](https://alltd.org/)
--   [Bileam Tschepe TD Beginner course](https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
--   [Bileam Tschepe YT channel](https://www.youtube.com/channel/UCONptu0J1PCrW9YfBtSdqjA)
-- [The Interactive & Immersive HQ](https://www.youtube.com/c/TheInteractiveImmersiveHQ)
--   [Maurizio Orlando TD corso introduttivo ITA](https://www.youtube.com/playlist?list=PLhhSecfe3762IytiKsT472xhnF1LciVJE)
--   [TD official YT channel](https://www.youtube.com/TouchDesignerOfficial)
+-   [All TD|noembed](https://alltd.org/)
+-   [Bileam Tschepe TD Beginner course|noembed](https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz)
+-   [Bileam Tschepe YT channel|noembed](https://www.youtube.com/channel/UCONptu0J1PCrW9YfBtSdqjA)
+- [The Interactive & Immersive HQ|noembed](https://www.youtube.com/c/TheInteractiveImmersiveHQ)
+-   [Maurizio Orlando TD corso introduttivo ITA|noembed](https://www.youtube.com/playlist?list=PLhhSecfe3762IytiKsT472xhnF1LciVJE)
+-   [TD official YT channel|noembed](https://www.youtube.com/TouchDesignerOfficial)
 
 ---
 

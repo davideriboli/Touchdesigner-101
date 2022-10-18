@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "88e7aa5aaff355d4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01_TD-101/The Interactive & Immersive HQ Crash Course/00 - Intro.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "1e6fbcb3787189ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e7aa5aaff355d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -32,7 +38,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -54,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346
+    "width": 346,
+    "collapsed": true
   },
   "right": {
     "id": "435f602aea95c45e",
@@ -70,7 +79,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_TD-101/The Interactive & Immersive HQ Crash Course/00 - Intro.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -92,13 +101,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 304,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "88e7aa5aaff355d4",
   "lastOpenFiles": [
+    "01_TD-101/The Interactive & Immersive HQ Crash Course/00 - Intro.md",
     "Links&Tools/Useful Links.md",
     "README.md",
-    "01_TD-101/The Interactive & Immersive HQ Crash Course/00 - Intro.md",
     "03_Student-Works/LEMS-Pesaro/Davide Rana/ReadMe.md",
     "01_TD-101/README.md",
     "03_Student-Works/README.md",
