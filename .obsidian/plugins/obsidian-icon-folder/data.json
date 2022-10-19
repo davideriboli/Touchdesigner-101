@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabReadme",
       "FasCode",
       "RiFileWarningFill",
       "FasCalendarCheck",
-      "RiShareFill",
-      "FasToolbox"
+      "RiShareFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,8 +24,8 @@
   "02_Sogni": "FasCloudMoon",
   "99_Allegati": "RiAttachment2",
   "03_Furti": "RiDoubleQuotesL",
-  "README.md": "RiFileWarningFill",
-  "LICENSE": "RiFileWarningFill",
+  "README.md": "FabReadme",
+  "LICENSE": "FabReadme",
   "Links&Tools": "FasToolbox",
   "01_TD-101": "FasCode",
   "02_TD-Bootcamp": "FasCode",

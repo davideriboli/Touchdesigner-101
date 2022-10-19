@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Zenburn",
-  "textFontFamily": "Source Sans Pro",
-  "interfaceFontFamily": "Source Sans Pro",
-  "monospaceFontFamily": "Source Code Pro",
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Source Sans Pro,Roboto,Verdana",
+  "interfaceFontFamily": "Source Sans Pro,Roboto,Verdana",
+  "monospaceFontFamily": "Fira Code,Source Code Pro,Courier",
   "baseFontSizeAction": true,
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 16
 }
